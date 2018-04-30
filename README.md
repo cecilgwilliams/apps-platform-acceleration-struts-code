@@ -1,5 +1,7 @@
 # Struts Example
 
+Repo for Spring Bootification of Struts lab
+
 ## Build the app with maven
 
 ```
